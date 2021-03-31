@@ -3,19 +3,23 @@
   (:import (java.time Duration Instant)))
 
 ;; questions
-(def quiz-data [{:question "What is the capital of France"
+(def quiz-data [{:question "What is the capital of France?"
                  :options #{"New york", "London", "Rio De Janeiro", "Paris"}
                  :correct-answer "Paris"}
 
-                {:question "What is the answer to the meaning of life, the universe, and everything"
+                {:question "What is the answer to the meaning of life, the universe, and everything?"
                  :options #{"42", "79", "86", "1"}
                  :correct-answer "42"}
 
-                {:question "How much is is 1+1"
+                {:question "How much is is 1+1?"
                  :options #{"27", "21000000", "2", "17"}
                  :correct-answer "2"}
+                
+                 {:question "Which is the best operating system?"
+                 :options #{"Windows", "Linux + OS", "macOS"}
+                 :correct-answer "Linux + OS"}
 
-                {:question "What is the last letter of the alphabet"
+                {:question "What is the last letter of the alphabet?"
                  :options #{"x" "y", "z", "v"}
                  :correct-answer "z"}])
 
