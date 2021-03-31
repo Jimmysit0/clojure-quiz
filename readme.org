@@ -1,0 +1,11 @@
+#+TITLE: Clojure Quiz
+
+This is a simple Clojure quiz!
+
+# Running
+
+Clone this repo, then cd into the folder and run clojure quiz.clj
+
+# Gallery
+
+[[https://cdn.discordapp.com/attachments/618973956019453968/826619495652524042/unknown.png]]

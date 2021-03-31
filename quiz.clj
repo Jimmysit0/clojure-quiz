@@ -16,7 +16,7 @@
                  :correct-answer "2"}
 
                 {:question "What is the last letter of the alphabet"
-                 :options #{"x". "y", "z", "v"}
+                 :options #{"x" "y", "z", "v"}
                  :correct-answer "z"}])
 
 ;; calculate the amount of correct answers
