@@ -15,8 +15,8 @@
                  :options #{"27", "21000000", "2", "17"}
                  :correct-answer "2"}
                 
-                 {:question "Which is the best operating system?"
-                 :options #{"Windows", "Linux + OS", "macOS"}
+                {:question "Which is the best operating system?"
+                 :options #{"Windows", "Linux + OS", "macOS", "MeowgleOS"}
                  :correct-answer "Linux + OS"}
 
                 {:question "What is the last letter of the alphabet?"
