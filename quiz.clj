@@ -14,11 +14,18 @@
                 {:question "How much is is 1+1?"
                  :options #{"27", "21000000", "2", "17"}
                  :correct-answer "2"}
-
+                
                 {:question "Which is the best operating system?"
                  :options #{"Windows", "Linux + OS", "macOS", "MeowgleOS"}
                  :correct-answer "Linux + OS"}
 
+<<<<<<< HEAD
+                {:question "Which is the best operating system?"
+                 :options #{"Windows", "Linux + OS", "macOS", "MeowgleOS"}
+                 :correct-answer "Linux + OS"}
+
+=======
+>>>>>>> e4dc200348bc0316b48cfaa094f77d6c9a072ed0
                 {:question "What is the last letter of the alphabet?"
                  :options #{"x" "y", "z", "v"}
                  :correct-answer "z"}])
